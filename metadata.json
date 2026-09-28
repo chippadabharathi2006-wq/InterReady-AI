@@ -1,0 +1,6 @@
+{
+  "name": "InternReady AI",
+  "description": "Internship Tracker & AI-Powered Skill Gap Analyzer for college students to track applications, analyze job descriptions, detect skill gaps, compare resumes, and prepare for interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
